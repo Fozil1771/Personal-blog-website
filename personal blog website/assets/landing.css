@@ -32,42 +32,42 @@
  }
 
 .tash-img {
-    background-image: url("/img/tashkent.jpg");
+    background-image: url("../img/tashkent.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .calif-img {
-    background-image: url("/img/california.jpg");
+    background-image: url("../img/california.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .paris-img {
-    background-image: url("/img/paris.jpg");
+    background-image: url("../img/paris.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .swizer-img {
-    background-image: url("/img/switzerland.jpg");
+    background-image: url("../img/switzerland.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .ice-img {
-    background-image: url("/img/iceland.jpg");
+    background-image: url("../img/iceland.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .washington-img {
-    background-image: url("/img/washington.jpg");
+    background-image: url("../img/washington.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
