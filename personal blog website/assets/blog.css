@@ -27,7 +27,7 @@
 
 
 .blog-img1 {
-    background-image: url("/img/tashkent.jpg");
+    background-image: url("../img/tashkent.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -35,7 +35,7 @@
 }
 
 .blog-img2 {
-    background-image: url("/img/samarqand-day.jpg");
+    background-image: url("../img/samarqand-day.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -57,14 +57,14 @@
 }
 
 .post-img1 {
-    background-image: url("/img/samarqand-night.jpg");
+    background-image: url("../img/samarqand-night.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .post-img2 {
-    background-image: url("/img/paris.jpg");
+    background-image: url("../img/paris.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
